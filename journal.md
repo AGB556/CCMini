@@ -97,4 +97,8 @@ Next, I am going to work on the idlers for my belt runs to complete the motion s
 
 I modified the z parts to include the idler built in. These ride on an m5 bolt. 
 
+<img width="1455" height="796" alt="image" src="https://github.com/user-attachments/assets/5ef8fe62-e240-4c26-9653-6eddddfbeab0" />
+
+Finally, I modified the top stiffener part to also include the idler built in. This is all a super compact, super packaged system that I am very proud of.
+
 Total Time Spent: 6 Hours
