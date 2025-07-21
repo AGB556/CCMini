@@ -93,4 +93,8 @@ With this, I can now tension all of my belts.
 
 Next, I am going to work on the idlers for my belt runs to complete the motion system. 
 
-Total Time Spent: 5 Hours
+<img width="1400" height="788" alt="image" src="https://github.com/user-attachments/assets/5339c066-3873-4ddd-9346-8a5090457ab0" />
+
+I modified the z parts to include the idler built in. These ride on an m5 bolt. 
+
+Total Time Spent: 6 Hours
