@@ -86,3 +86,11 @@ After some thought about it, I settled on moving the motor itself. This keeps ev
 i have abouyt 3mm of motion here, along with being able to adjust the belt itself on the clamp. 
 
 Following this logic, I decided to do the same thing for the x/y system. 
+
+<img width="1080" height="1007" alt="image" src="https://github.com/user-attachments/assets/5963232c-58c9-453c-93c7-ef2a5cfd9656" />
+
+With this, I can now tension all of my belts. 
+
+Next, I am going to work on the idlers for my belt runs to complete the motion system. 
+
+Total Time Spent: 5 Hours
