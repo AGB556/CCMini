@@ -102,3 +102,29 @@ I modified the z parts to include the idler built in. These ride on an m5 bolt.
 Finally, I modified the top stiffener part to also include the idler built in. This is all a super compact, super packaged system that I am very proud of.
 
 Total Time Spent: 6 Hours
+
+## **7/27/2025 Log 3: Toolhead**
+
+I have spend the past week working through how exactly I am going to make this toolhead. 
+
+After much work, I decided on bowden drive, a Revo V6 Hotend, a 4010 Fan for part cooling, and a BL Touch. 
+
+<img width="862" height="755" alt="image" src="https://github.com/user-attachments/assets/2b2b3f16-6c71-4213-b6ba-775408c952c4" />
+
+<img width="1347" height="1137" alt="image" src="https://github.com/user-attachments/assets/a324b3ac-a718-4ef1-8ed5-bc2730f08ab5" />
+
+This dark blue part bolts and clamps the hotend down. 
+
+<img width="967" height="876" alt="image" src="https://github.com/user-attachments/assets/c6041247-9f32-4113-a1f1-f606140ec80f" />
+
+The BL touch mounts to both of the parts that hold the Revo V6.
+
+<img width="697" height="736" alt="image" src="https://github.com/user-attachments/assets/4851ecc5-a83c-42fd-9f75-6db6ddc39d54" />
+
+The part cooling took by far the longest to figure out. I went babck and forth through different locations and size of fan, from going around the linear rails to putting them horizontal. I ended up with this, which mounts the part cooling fan to the hotend cooling fan, which given that we have a V6 hotend, should be fine to limit the airflow of the hotend slightly. 
+
+<img width="762" height="752" alt="image" src="https://github.com/user-attachments/assets/c3669826-3b4b-45e9-86d3-0a6f98e8d6f8" />
+
+From there, I mounted the ProtoXTruder V2, acting as a bowden drive, to my top rail support block. This will take the filament in through the bottom and spit it out the top to the hotend. 
+
+Total Time Spent: 10 Hours over Multiple Days
