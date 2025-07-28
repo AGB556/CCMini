@@ -4,6 +4,7 @@ author: "bcon"
 description: "mini cross gantry cantilevered 3d printer"
 created_at: "2025-07-18"
 ---
+Total Time Spent: 32.5 Hours
 
 ## **7/18/2025 Log 1: A Fun Start**
 
@@ -103,7 +104,7 @@ Finally, I modified the top stiffener part to also include the idler built in. T
 
 Total Time Spent: 6 Hours
 
-## **7/27/2025 Log 3: Toolhead**
+## **7/27/2025 Log 4: Toolhead**
 
 I have spend the past week working through how exactly I am going to make this toolhead. 
 
@@ -132,3 +133,36 @@ This duct will cool the part
 From there, I mounted the ProtoXTruder V2, acting as a bowden drive, to my top rail support block. This will take the filament in through the bottom and spit it out the top to the hotend. 
 
 Total Time Spent: 10 Hours over Multiple Days
+
+## **7/27/2025 Log 5: Finishing Up**
+
+<img width="912" height="1055" alt="image" src="https://github.com/user-attachments/assets/2cafbec2-b947-49c0-bc4a-c9fa883e1e31" />
+
+I have officially finished this printer! Colors have yet to be decided but I will figure them out before officially submitting. 
+
+In this, I have done all of the electronics and mounted my Z Axis. 
+
+<img width="1270" height="917" alt="image" src="https://github.com/user-attachments/assets/95eceaad-e10a-4a42-a799-39a7a7140854" />
+
+The electronics are all bottom mounted to my frame, including the Pi 0 2 W, SKR Mini E3 V3, and Power Supply.
+
+<img width="1178" height="887" alt="image" src="https://github.com/user-attachments/assets/05a023d9-b36c-4457-9edb-7fdeb2d2502a" />
+
+Then, a bottom part is mounted to close it off, as well as use the stoppers from linear rails as feet. 
+
+<img width="992" height="746" alt="image" src="https://github.com/user-attachments/assets/139200a2-e6b5-4deb-ba64-d05c95a30a4f" />
+
+The bed is mounted with 3 bolts and spacers directly to the frame. 
+
+All in all, this creates an electronics box that holds everything I need for this printer. 
+
+<img width="1278" height="712" alt="image" src="https://github.com/user-attachments/assets/064180d2-89ec-45f7-8255-3bcdb9b24458" />
+
+I also added these 2 3010 fans for electronics cooling that draw air through the system to cool all of the components. Ideally, the power supply doesnt affect the airflow too badly. 
+<img width="1343" height="1007" alt="image" src="https://github.com/user-attachments/assets/f218c175-4779-4828-80ca-bdb5fd8df72e" />
+
+This was a lot of fun to design. I hope the different approach to the kinematic system will make for a fun project. 
+
+<img width="807" height="1008" alt="image" src="https://github.com/user-attachments/assets/992e49dd-36d3-4716-a032-a02b23a6508e" />
+
+Total Time Spent: 6 Hours
