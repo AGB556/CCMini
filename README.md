@@ -6,11 +6,11 @@ Thus, here is my take on a cross gantry cantilevered printer: The CCMini.
 
 Utilizing an SKR Mini E3 V3 mainboard, RPi 0 2 W, 200 W Power Supply, all on a 120mmx120mm bed, and a cross gantry motion system, this is built to achieve speed and accuracy, all while exploring a new unique idea for 3d printing. 
 
-(image here)
+<img width="2547" height="3296" alt="Main(1)" src="https://github.com/user-attachments/assets/fd2335cf-b4e0-436f-b615-4edb389e0206" />
 
+[Onshape](https://cad.onshape.com/documents/a201744b6bf920db6aaefbed/w/2247273ec50a1fa0490038af/e/6da7ef03bb6154d09a5995df)
 
 BOM
-
 
 | Item                     | PRICE                  | QUANTITY | TOTAL PRICE | SOURCE     | Ordered | BOUGHT/OWNED? | LINK |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 |--------------------------|------------------------|----------|-------------|------------|---------|---------------|------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
