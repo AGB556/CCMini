@@ -126,7 +126,7 @@ The part cooling took by far the longest to figure out. I went babck and forth t
 
 <img width="1232" height="1047" alt="image" src="https://github.com/user-attachments/assets/193a98c5-0540-4707-957a-c7d1ec026a89" />
 
-This duct will cool the part
+This duct will cool the part, combined with the fan mount gives one 4010 blower fan for cooling, which isn't optimal but will work to start. I am already looking into a way to get a 5015 blower fan on, but space is limited.
 
 <img width="762" height="752" alt="image" src="https://github.com/user-attachments/assets/c3669826-3b4b-45e9-86d3-0a6f98e8d6f8" />
 
@@ -158,7 +158,7 @@ All in all, this creates an electronics box that holds everything I need for thi
 
 <img width="1278" height="712" alt="image" src="https://github.com/user-attachments/assets/064180d2-89ec-45f7-8255-3bcdb9b24458" />
 
-I also added these 2 3010 fans for electronics cooling that draw air through the system to cool all of the components. Ideally, the power supply doesnt affect the airflow too badly. 
+I also added these 2 3010 fans for electronics cooling that draw air through the system to cool all of the components. Ideally, the power supply doesnt affect the airflow too badly. This was done after realizing that I was sealing all of my electronics into a plastic box, which is never a good idea.
 <img width="1343" height="1007" alt="image" src="https://github.com/user-attachments/assets/f218c175-4779-4828-80ca-bdb5fd8df72e" />
 
 This was a lot of fun to design. I hope the different approach to the kinematic system will make for a fun project. 
