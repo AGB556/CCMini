@@ -122,6 +122,8 @@ The BL touch mounts to both of the parts that hold the Revo V6.
 <img width="697" height="736" alt="image" src="https://github.com/user-attachments/assets/4851ecc5-a83c-42fd-9f75-6db6ddc39d54" />
 
 The part cooling took by far the longest to figure out. I went babck and forth through different locations and size of fan, from going around the linear rails to putting them horizontal. I ended up with this, which mounts the part cooling fan to the hotend cooling fan, which given that we have a V6 hotend, should be fine to limit the airflow of the hotend slightly. 
+<img width="1232" height="1047" alt="image" src="https://github.com/user-attachments/assets/193a98c5-0540-4707-957a-c7d1ec026a89" />
+this duct will cool the part
 
 <img width="762" height="752" alt="image" src="https://github.com/user-attachments/assets/c3669826-3b4b-45e9-86d3-0a6f98e8d6f8" />
 
