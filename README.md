@@ -10,6 +10,8 @@ Utilizing an SKR Mini E3 V3 mainboard, RPi 0 2 W, 200 W Power Supply, all on a 1
 
 [Onshape](https://cad.onshape.com/documents/a201744b6bf920db6aaefbed/w/2247273ec50a1fa0490038af/e/6da7ef03bb6154d09a5995df)
 
+<img width="1436" height="922" alt="image" src="https://github.com/user-attachments/assets/20ccb59e-ad8a-4319-816a-69d578cdae4f" />
+
 BOM
 
 | Item                     | PRICE                  | QUANTITY | TOTAL PRICE | SOURCE     | Ordered | BOUGHT/OWNED? | LINK |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
